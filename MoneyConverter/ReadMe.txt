@@ -1,0 +1,2 @@
+This program converts the fee given in EUR to PLN or USD, depending on the user’s choice. If the user does not choose
+ between the available options, program displays the appropriate message. Assumethat: 1 EUR is worth 4.28 PLN. 1 EUR is worth 1.18 USD.
