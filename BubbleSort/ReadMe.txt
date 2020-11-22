@@ -1,0 +1,1 @@
+This program sorts all the elements in the array using the bubble sort algorithm.
