@@ -1,0 +1,1 @@
+This program checks if it is possible to build a triangle from three sections of given length.
